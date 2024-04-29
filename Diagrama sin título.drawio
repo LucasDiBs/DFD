@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T01:18:07.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="1NviFMBIlwWu9JI-KbVT" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T01:40:15.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ak4CS9LS8sqaExs0H0fh" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
         <mxCell id="eyok-czRbijV0H3hoaND-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eyok-czRbijV0H3hoaND-13" target="eyok-czRbijV0H3hoaND-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eyok-czRbijV0H3hoaND-140" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eyok-czRbijV0H3hoaND-140" value="Evento" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="-400" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="eyok-czRbijV0H3hoaND-141" value="1" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="eyok-czRbijV0H3hoaND-140">
@@ -189,7 +189,7 @@
         <mxCell id="eyok-czRbijV0H3hoaND-195" value="Externo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eyok-czRbijV0H3hoaND-152">
           <mxGeometry x="30" y="45" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eyok-czRbijV0H3hoaND-153" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eyok-czRbijV0H3hoaND-153" value="Flujo de Datos" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="-400" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="eyok-czRbijV0H3hoaND-154" value="" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="eyok-czRbijV0H3hoaND-153">
