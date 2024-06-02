@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T22:30:57.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_cG3302K8Pdm7D1N2S8V" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T22:31:51.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="j-0fXPDxahkBxu3J-yiE" version="24.4.13" type="github">
   <diagram name="Página-1" id="NoeAjOuP5uYffsh0_0Lu">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           <mxGeometry x="25" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="irQIpHBXP7av7jaC-N4V-21" value="Diagrama de Actividad del Prestamo de libro" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="240" y="30" width="280" height="50" as="geometry" />
+          <mxGeometry y="30" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="irQIpHBXP7av7jaC-N4V-24" value="Recepsionista" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="200" height="720" as="geometry" />
